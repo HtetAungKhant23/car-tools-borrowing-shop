@@ -1,0 +1,3 @@
+D:/National Cyber City Uni/for_phyo_ko_student/cmake-build-debug/CMakeFiles/for_phyo_ko_student.dir
+D:/National Cyber City Uni/for_phyo_ko_student/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/National Cyber City Uni/for_phyo_ko_student/cmake-build-debug/CMakeFiles/rebuild_cache.dir
